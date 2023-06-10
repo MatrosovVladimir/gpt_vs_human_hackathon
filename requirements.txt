@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+catboost
+sentence_transformers
+uuid
+openpyxl
